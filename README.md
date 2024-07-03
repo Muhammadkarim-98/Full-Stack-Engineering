@@ -56,7 +56,7 @@ _This text_ is italic
 
 <!-- Images -->
 
-![Markdown Logo](![alt text](https://logowik.com/content/uploads/images/apple8110.logowik.com.webp))
+![Markdown Logo](https://logowik.com/content/uploads/images/apple8110.logowik.com.webp)
 
 <!-- Code Block -->
 
